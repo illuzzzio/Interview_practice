@@ -49,3 +49,5 @@ def postorder(node):
     print(node)
 print(postorder(A))
 # left=>right=>root
+
+
