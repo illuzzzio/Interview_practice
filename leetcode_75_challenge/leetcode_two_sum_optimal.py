@@ -11,3 +11,4 @@ def optimal(nums,target):
             hashmap[value]= index
 print(optimal(nums,target))
 
+# value ko index assign --remember in else 
